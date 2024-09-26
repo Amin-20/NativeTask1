@@ -1,5 +1,5 @@
 import { View, Text } from "react-native";
-import { styles } from "../Style";
+import { styles } from "./CardStyle";
 
 const Card2 = () => {
   return (

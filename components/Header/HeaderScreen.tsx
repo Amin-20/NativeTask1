@@ -1,5 +1,5 @@
 import React from "react";
-import { styles } from "./Style";
+import { styles } from "./HeaderStyle";
 import { View, Text, TextInput } from "react-native";
 
 const Header2 = () => {
